@@ -1,2 +1,2 @@
 # SpringGuruUdemy
-Lessons from Spring Guru Udemy
+Work Along from Spring Guru Udemy Exercises
